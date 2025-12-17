@@ -1,0 +1,3 @@
+Developed an end-to-end AI pipeline that leverages Computer Vision and Neural Speech Synthesis to create a personalized user experience. The system utilizes a continuous camera feed to perform real-time facial detection and recognition. Upon identifying a user, the system extracts vocal characteristics associated with that individual to generate a personalized greeting.
+
+The architecture integrates Microsoft’s GPT for natural language processing and Google’s Text-to-Speech (gTTS) library. The unique "hook" of the system is its ability to switch between a synthesized mimicry of the user's own tone for initial engagement and a standard assistant voice for information delivery, creating a highly interactive "mirroring" effect.
